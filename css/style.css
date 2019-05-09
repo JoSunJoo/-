@@ -1,0 +1,243 @@
+.login{
+	width: calc(100vw - 200px);
+}
+
+.text-center {
+	text-align: center;	
+}
+
+.login_style{
+	padding: 0 70px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 36;
+}
+
+.login-input {
+	border-top-width: 5px;
+	border-bottom-width: 5px;
+	border-right-width: 5px;
+	border-left-width: 5px;
+	height: 45px;
+	font-size: xx-large;
+}
+
+.login_create_room{
+	font-size: 1rem;
+	line-height: 2px;
+	color: #6c757d;
+	text-align: center;
+	font-weight: 400;
+	border-bottom: 2px solid #a6a6a6;
+}
+
+.login_page{
+	padding-top: 3.0rem; 
+	padding-bottom: 3.0rem; 
+	font-size: 1.9rem;
+}
+
+#main-frame {
+	margin: 100px;
+	height: 80vh;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.beatiful-btn:focus, .beatiful-btn:hover{
+	 border: 3px double #ffb759;
+	 text-align: center;
+}
+
+.beatiful-btn {
+	width: 40%;
+	padding-top: 0.3rem; 
+	padding-bottom: 0.3rem;
+	padding-left: 0.1rem;
+	font-size: 1.0rem;
+	box-sizing: border-box;
+	border: none;
+	text-align: center;
+	border-bottom: 3px double #fdaf44;
+	background-color: white;
+}
+
+.beautiful_textbox{
+	width: 100%;
+	padding-top: 3.0rem; 
+	padding-bottom: 2.8rem; 
+	font-size: 1.9rem;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 3px double #fdaf44;
+	border-radius: 20px;
+	box-shadow: 0 7px 10px 0 rgba(0,0,0,0.08),0 2px 8px 0 rgba(0,0,0,0.08);				
+}
+
+.beautiful_textbox:focus, .beautiful_textbox:hover{
+	 border: 3px solid #fdaf44;
+	 border-radius: 20px;
+	 outline: 1px solid #dbd7d0;
+	 outline-offset: 15px				
+}
+
+.login_button_design{
+	font-size: 1rem; 
+	padding-top: 1rem; 
+	padding-bottom: 1rem;
+	color: #fff;
+	background-color: #fed7a1;
+	border-radius: 7px;
+}
+
+.click:focus, .click:hover{
+	box-shadow: 0 8px 19px 0 rgba(0,0,0,0.1),0 10px 100px 0 rgba(0,0,0,0.1);
+	color: white;
+}
+
+.center-table {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.top-design{
+	text-align: left; 
+	background-color: #fed194; 
+	padding-top: 18%; 
+	border-bottom: 3px solid #fdaf44;
+}
+
+.result-top-design{
+	text-align: center; 
+	background-color: #fed194; 
+	padding-top: 10%; 
+	padding-bottom: 4%; 
+	border-bottom: 3px solid #fdaf44;
+}
+
+.beatiful-btn {
+	width: 40%;
+	padding-top: 0.3rem; 
+	padding-bottom: 0.3rem;
+	padding-left: 0.1rem;
+	font-size: 1.0rem;
+	box-sizing: border-box;
+	border: none;
+	text-align: center;
+	border-bottom: 3px double #fdaf44;
+	background-color: white;
+}
+ 
+.beatiful-btn:focus, .beatiful-btn:hover{
+	 border: 3px double #ffb759;
+	 text-align: center;
+}
+
+.button_design{
+	font-size: 1rem; 
+	padding-top: 0.8rem; 
+	padding-bottom: 0.8rem;
+	color: #fff;
+	background-color: #fed7a1;
+	width: 58%;
+	border-radius: 7px;
+}
+
+.result-button-design{
+	background-color: #fed7a1; 
+	color: white; 
+	width: 46vw; 
+	display: inline-block;
+}
+
+.create_time{
+	font-size: 1.0rem;
+	line-height: 2;
+	color: #6c757d;
+	text-align: center;
+	border: darkgray;
+    background-color: #d9d9d9;
+    border-bottom: 2px solid #6c757d73!important;
+    font-weight: 500;
+}
+
+.result-box-design{
+	border: 2px solid ##bfbfbf;
+	border-radius: 17px;
+    font-weight: 400;
+    display: table-caption;
+    background-color: #efefef;
+    text-align: left;
+    height: 10vh;
+    width: 68vw;
+    padding-left: 1.3rem;
+    font-size: 20px;
+}
+
+.result-time-design{
+	text-align: center; 
+	font-size: 14px; 
+	padding-bottom: 15px;
+	padding-right: 35px;
+}
+
+.div_design{
+	border-radius: 28px;
+	background-color: #d9d9d9;
+	padding: 15px;
+	overflow: auto;
+	width: 86vw;
+	margin: auto;
+}
+
+.banner-design{
+	border-radius: 30px;
+	background-color: #fdeada;
+	width: 73vw;
+	margin: auto;
+	height: 40vh;
+	text-align: center;
+}
+
+.div_design input[type=time] {
+	width: 7rem;
+}
+
+.button_design_date{
+	font-size: 1rem; 
+	padding: 0.4rem; 
+	color: #fff;
+	background-color: #dbd7d0;
+	border-radius: 7px;
+	float: right;
+}
+
+.beatiful-btn {
+	width: 40%;
+	padding-top: 0.3rem; 
+	padding-bottom: 0.3rem;
+	padding-left: 0.1rem;
+	font-size: 1.0rem;
+	box-sizing: border-box;
+	border: none;
+	text-align: center;
+	border-bottom: 3px double #fdaf44;
+	background-color: white;
+}
+
+.beatiful-btn:focus, .beatiful-btn:hover{
+	 border: 3px double #ffb759;
+	 text-align: center;
+}
+
+.w3_sidebar {
+    height: 100vh;
+    border-left: 3px solid #fdaf44;
+    width: 85vw;
+    background-color: #fedeb4;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+}
